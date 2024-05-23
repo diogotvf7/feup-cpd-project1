@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Project Overview}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Project Description}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Algorithms Explanation}{1}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}First Algorithm - OnMult}{2}{subsubsection.1.2.1}%
+\contentsline {paragraph}{\numberline {1.2.1.1}C++ Implementation}{2}{paragraph.1.2.1.1}%
+\contentsline {paragraph}{\numberline {1.2.1.2}Julia Implementation}{2}{paragraph.1.2.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.2}Second Algorithm - OnMultLine}{2}{subsubsection.1.2.2}%
+\contentsline {paragraph}{\numberline {1.2.2.1}C++ Implementation}{2}{paragraph.1.2.2.1}%
+\contentsline {paragraph}{\numberline {1.2.2.2}Julia Implementation}{3}{paragraph.1.2.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Third Algorithm - OnMultBlock}{3}{subsubsection.1.2.3}%
+\contentsline {paragraph}{\numberline {1.2.3.1}C++ Implementation}{3}{paragraph.1.2.3.1}%
+\contentsline {paragraph}{\numberline {1.2.3.2}Julia Implementation}{3}{paragraph.1.2.3.2}%
+\contentsline {section}{\numberline {2}Performance Metrics}{4}{section.2}%
+\contentsline {section}{\numberline {3}Results and Analysis}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}C++ vs Julia}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}OnMult vs OnMultLine}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}OnMultLine vs OnMultBlock}{5}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}C++ Implementation}{5}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}Julia Implementation}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Block Size Analysis}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Parallelization Strategies}{5}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Conclusions}{6}{section.4}%
+\contentsline {section}{\numberline {5}Annex}{6}{section.5}%
